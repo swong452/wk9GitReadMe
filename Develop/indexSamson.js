@@ -55,8 +55,18 @@ function askQuestions() {
 
 function gitProjectInfo(gitInfo) {
 
-    return `# Project: ${gitInfo.project}
-    
+    return `#Project: ${gitInfo.project}
+
+## Table of Contents
+- Project Description
+- Installation
+- Usage
+- License
+- Contributing
+- Tests
+- Questions
+- User Profile
+
 **Project Description: ${gitInfo.projectDesc}**
 
 _GitHub username is_ ${gitInfo.install}

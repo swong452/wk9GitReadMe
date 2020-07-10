@@ -1,9 +1,19 @@
-# Project: Night Jazz, Smooth
-    
-**Project Description: Get the HW Done**
+#Project: Restructure Life
 
-_GitHub username is_ ABC 123
+## Table of Contents
+- Project Description
+- Installation
+- Usage
+- License
+- Contributing
+- Tests
+- Questions
+- User Profile
 
-## GitHubEmail: swong452@yahoo.com
+**Project Description: Too messy, too many things going on**
+
+_GitHub username is_ Install NPM , inquirer
+
+## GitHubEmail: swong452@github.email
 
 > This is the END
