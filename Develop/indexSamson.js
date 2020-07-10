@@ -56,13 +56,7 @@ function askQuestions() {
 function gitProjectInfo(gitInfo) {
 
     return `
-    # Project: ${gitInfo.project} 
-    _Project Description_: ${gitInfo.projectDesc}.
-
-
-    **GitHub username is ${gitInfo.install} **
-    ## GitHubEmail: ${gitInfo.email}
-    > This is the END`;
+    # Project: `;
 }
 
 
@@ -73,10 +67,6 @@ function gitProjectInfo(gitInfo) {
 
 // ];
 
-
-// Create README.md file
-// function writeToFile(fileName, data) {
-// }
 
 
 // Main Program
@@ -125,3 +115,13 @@ inquirer
   });
 
   */
+
+  /*
+  # Project: ${gitInfo.project} 
+    _Project Description_: ${gitInfo.projectDesc}.
+
+
+    **GitHub username is ${gitInfo.install} **
+    ## GitHubEmail: ${gitInfo.email}
+    > This is the END`;
+    */
