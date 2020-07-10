@@ -1,9 +1,9 @@
-# Project: Night Time: Time to Code
-
-    **Project Description: Git Hub ReadME Generate**
-
-    _GitHub username is_ NPM INSTALL Please
-
-    ## GitHubEmail: steelerwong2005@hotmail.com
+# Project: Night Jazz, Smooth
     
-    > This is the END
+**Project Description: Get the HW Done**
+
+_GitHub username is_ ABC 123
+
+## GitHubEmail: swong452@yahoo.com
+
+> This is the END
