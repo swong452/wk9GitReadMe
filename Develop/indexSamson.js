@@ -55,8 +55,13 @@ function askQuestions() {
 
 function gitProjectInfo(gitInfo) {
 
-    return `
-    # Project: `;
+    return `# Project: ${gitInfo.project}\
+    _Project Description_: ${gitInfo.projectDesc}\
+
+
+    **GitHub username is ${gitInfo.install}\
+    ## GitHubEmail: ${gitInfo.email}\
+    > This is the END`
 }
 
 
