@@ -1,3 +1,9 @@
-# Project: Restrucutre Life    _Project Description_: Life needs to be changed
+# Project: Night Time: Time to Code
 
-    **GitHub username is use npm please    ## GitHubEmail: swong452@gmail.com    > This is the END
+    **Project Description: Git Hub ReadME Generate**
+
+    _GitHub username is_ NPM INSTALL Please
+
+    ## GitHubEmail: steelerwong2005@hotmail.com
+    
+    > This is the END
