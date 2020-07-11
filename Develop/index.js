@@ -58,6 +58,7 @@ function gitProjectInfo(gitInfo) {
     return `
 [![License](http://img.shields.io/:github-${gitInfo.repo}-blue.svg)](https://github.com/${gitInfo.name}/${gitInfo.repo})
 
+![alt test](samsonGitHubPicture.png "my Avatar")
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 # Title: ${gitInfo.project}
 
@@ -104,8 +105,9 @@ List any prerequisite packages, and how to install these prequisite package
 node index.js
 \`\`\`
 
-**Installation:** 
+### Installation: 
 _Describe how to Install your package_
+
 
 ## Usage
 

@@ -1,8 +1,9 @@
 
-[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
+[![License](http://img.shields.io/:github--blue.svg)](https://github.com/swong452/)
 
+![alt test](samsonGitHubPicture.png "my Avatar")
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: Create a README Generator
+# Title: 
 
 ## Table of Contents
 
@@ -20,7 +21,7 @@
 * [Contact](#contact)
 
 
-## Project Description: This README Generator will auto generate a readme File
+## Project Description: 
 _describe high level project description, may be with screen shot_
 
 
@@ -47,8 +48,9 @@ List any prerequisite packages, and how to install these prequisite package
 node index.js
 ```
 
-**Installation:** 
+### Installation: 
 _Describe how to Install your package_
+
 
 ## Usage
 
@@ -88,4 +90,4 @@ Define a list of proposed features (and known issues).
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-_GitHub Username Email_: swong452@hotmail.com
+_GitHub Username Email_: 
