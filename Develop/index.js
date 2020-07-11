@@ -104,7 +104,7 @@ Follow the prompt to create a README.md
 Below is a demo :
 
 
-![Recordit GIF](READMEdemoGIF.gif)
+![Recordit GIF](READMEgeneratorVideo.gif)
 
 
 ### Prerequisites Package 

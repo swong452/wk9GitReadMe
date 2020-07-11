@@ -22,7 +22,7 @@
 
 
 ## Project Description: 
-nodeJS script to generate a README File for the new repo of this user
+NodeJS to generate a ReadME md file using git username and repo
 
 
 ### Built With
@@ -43,7 +43,7 @@ Follow the prompt to create a README.md
 Below is a demo :
 
 
-![Recordit GIF](READMEdemoGIF.gif)
+![Recordit GIF](READMEgeneratorVideo.gif)
 
 
 ### Prerequisites Package 
@@ -98,4 +98,4 @@ NO roadmap for now
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-                              _GitHub Username Email_: swong@gitmail.com
+                              _GitHub Username Email_: swong452@github.com
