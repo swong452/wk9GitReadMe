@@ -155,7 +155,7 @@ Distributed under the MIT License. See \`LICENSE\` for more information.
 ## Contact
 _GitHub Username Email_: ${gitInfo.email}
 
-<iframe src="https://drive.google.com/file/d/1_wCPYN_2zJxHLeEuITmVqZBa6ZlVXZNB/preview" width="640" height="480"></iframe>)`
+<iframe src="https://drive.google.com/file/d/1_wCPYN_2zJxHLeEuITmVqZBa6ZlVXZNB/preview" width="640" height="480"></iframe>`
 }
 
 
