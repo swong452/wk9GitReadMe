@@ -1,6 +1,6 @@
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Project: Time for Dinner
+# Title: SING SONGS NOW
 
 ## Table of Contents
 - Project Description
@@ -12,18 +12,16 @@
 - Questions
 - User Profile
 
-**Project Description:** Eat a lot of food 
+**Project Description:** Worship songslkajf alsfdkjflkjf aslfdjsfljsfljsf alfjslfjslfdjslfjsfdsf YRES 
 
-**Installation:** ABC, Inquirer, abd..ddddd
+**Installation:** abc abc
 
-**Usage:** first do this
+**Usage:** no no n
 
-_GitHub username is_ ABC, Inquirer, abd..ddddd
-
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-Samson-blue.svg)](http://doge.mit-license.org)
 
 **Contributing**
-> samson wong
+> samsn wong
 
 **Tests**
 > undefined
@@ -31,4 +29,4 @@ _GitHub username is_ ABC, Inquirer, abd..ddddd
 **Questions**
 > undefined
 
-## GitHubEmail: swong452@gitm.com
+_GitHub Username Email_: abc.com

@@ -77,7 +77,7 @@ function gitProjectInfo(gitInfo) {
 
     return `
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Project: ${gitInfo.project}
+# Title: ${gitInfo.project}
 
 ## Table of Contents
 - Project Description
@@ -95,9 +95,7 @@ function gitProjectInfo(gitInfo) {
 
 **Usage:** ${gitInfo.usage}
 
-_GitHub username is_ ${gitInfo.install}
-
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-Samson-blue.svg)](http://doge.mit-license.org)
 
 **Contributing**
 > ${gitInfo.contribute}
@@ -108,7 +106,7 @@ _GitHub username is_ ${gitInfo.install}
 **Questions**
 > ${gitInfo.question}
 
-## GitHubEmail: ${gitInfo.email}`
+_GitHub Username Email_: ${gitInfo.email}`
 }
 
 
