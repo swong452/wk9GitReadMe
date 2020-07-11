@@ -1,7 +1,7 @@
 
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: d
+# Title: ABC
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@
 
 
 
-## Project Description: d
+## Project Description: abc
 _describe high level project description, may be with screen shot_
 
 
@@ -55,7 +55,7 @@ node index.js
 
 **Usage:** 
 
-[![License](http://img.shields.io/:license-d-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-ABC-blue.svg)](http://doge.mit-license.org)
 
 **Contributing**
 > 
@@ -66,4 +66,4 @@ node index.js
 **Questions**
 > undefined
 
-_GitHub Username Email_: dd
+_GitHub Username Email_: 
