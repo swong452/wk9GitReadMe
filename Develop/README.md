@@ -1,9 +1,8 @@
 
-[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](http://doge.mit-license.org)
 [![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: wk9
+# Title: Create a README Generator
 
 ## Table of Contents
 
@@ -19,16 +18,11 @@
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-* [Profile](#profile)
 
 
-
-## Project Description: Create a Read Me
+## Project Description: This README Generator will auto generate a readme File
 _describe high level project description, may be with screen shot_
 
-
-![Product Name Screen Shot](https://commonmark.org/help/images/favicon.png)
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
