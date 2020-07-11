@@ -101,6 +101,10 @@ _what software dependencies, and how to get start to run the program_
 In this ReadMe generator, just run node index will get you started.
 Follow the prompt to create a README.md
 
+Below is a demo :
+![Recordit GIF](READMEgeneratorVideo.gif)
+
+
 ### Prerequisites Package 
 
 Need to have node package, and also Inquirer to run this ReadMe generator.
@@ -118,10 +122,9 @@ In this project, no other installation needed.
 
 ## Usage
 
-Use this README Generator for any future projects. 
-Below display how it is being used. 
+Use this README Generator for any future projects that requires a README.md.
 
-![Recordit GIF](READMEgeneratorVideo.gif)
+
 
 ## Tests
 
@@ -154,11 +157,8 @@ NO roadmap for now
 Distributed under the MIT License. See \`LICENSE\` for more information.
 
 ## Contact
-_GitHub Username Email_: ${gitInfo.email}
-
-![Recordit GIF](MarkdownGuide.gif)`
+                              _GitHub Username Email_: ${gitInfo.email}`
 }
-
 
 // Main Program
 function init() {

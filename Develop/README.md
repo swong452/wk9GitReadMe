@@ -1,9 +1,9 @@
 
-[![License](http://img.shields.io/:github--blue.svg)](https://github.com/swong452/)
+[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
 
 ![alt test](swongGitHubPicture.png "my Avatar")
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: 
+# Title: README Generator
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@
 
 
 ## Project Description: 
-
+Create a nodeJS program that prompt user for questions, then generate README for that new Repo
 
 
 ### Built With
@@ -39,6 +39,10 @@ _what software dependencies, and how to get start to run the program_
 
 In this ReadMe generator, just run node index will get you started.
 Follow the prompt to create a README.md
+
+Below is a demo :
+![Recordit GIF](READMEgeneratorVideo.gif)
+
 
 ### Prerequisites Package 
 
@@ -57,10 +61,9 @@ In this project, no other installation needed.
 
 ## Usage
 
-Use this README Generator for any future projects. 
-Below display how it is being used. 
+Use this README Generator for any future projects that requires a README.md.
 
-![Recordit GIF](READMEgeneratorVideo.gif)
+
 
 ## Tests
 
@@ -93,6 +96,4 @@ NO roadmap for now
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-_GitHub Username Email_: 
-
-![Recordit GIF](MarkdownGuide.gif)
+                              _GitHub Username Email_: swong@gitmail.com
