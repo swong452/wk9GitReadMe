@@ -22,7 +22,7 @@
 
 
 ## Project Description: 
-Create a nodeJS program that prompt user for questions, then generate README for that new Repo
+nodeJS script to generate a README File for the new repo of this user
 
 
 ### Built With
@@ -41,7 +41,9 @@ In this ReadMe generator, just run node index will get you started.
 Follow the prompt to create a README.md
 
 Below is a demo :
-![Recordit GIF](READMEgeneratorVideo.gif)
+
+
+![Recordit GIF](READMEdemoGIF.gif)
 
 
 ### Prerequisites Package 

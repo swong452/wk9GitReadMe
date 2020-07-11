@@ -102,7 +102,9 @@ In this ReadMe generator, just run node index will get you started.
 Follow the prompt to create a README.md
 
 Below is a demo :
-![Recordit GIF](READMEgeneratorVideo.gif)
+
+
+![Recordit GIF](READMEdemoGIF.gif)
 
 
 ### Prerequisites Package 
