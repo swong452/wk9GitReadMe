@@ -119,9 +119,9 @@ List any prerequisite packages, and how to install these prequisite package
 
 * npm
 
-'''sh
+\`\`\`sh
 node index.js
-'''
+\`\`\`
 
 **Installation:** ${gitInfo.install}
 
