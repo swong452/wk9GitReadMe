@@ -1,13 +1,7 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: I do not know yet
+# Title: Buy Clothes
 
 ## Table of Contents
 
@@ -26,16 +20,43 @@
 * [Acknowledgements](#acknowledgements)
 * [Profile](#profile)
 
-**Project Description:** Think of sth
 
-**Installation:** npm, inquirer alskdfjasldfjasfddddddddddddddddalsfjslfjlsfjlsfjlsfj  how long can this be ?
 
-**Usage:** need to run this
+## Project Description:** Bying more clothes
+_describe high level project description, may be with screen shot_
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-[![License](http://img.shields.io/:license-I do not know yet-blue.svg)](http://doge.mit-license.org)
+### Built With
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [nodeJS](https://nodejs.org/en/)
+
+
+
+## Getting Started
+
+Give instructions on setting up this program in your environment, 
+what software dependencies, and how to get start to run the program
+
+### Prerequisites Package 
+
+List any prerequisite packages, and how to install these prequisite package
+
+* npm
+
+'''sh
+node index.js
+'''
+
+**Installation:** NPM, Inquirer
+
+**Usage:** install npm first
+
+[![License](http://img.shields.io/:license-Buy Clothes-blue.svg)](http://doge.mit-license.org)
 
 **Contributing**
-> Samson Wong, Florence Wong
+> samson wong
 
 **Tests**
 > undefined
@@ -43,4 +64,4 @@
 **Questions**
 > undefined
 
-_GitHub Username Email_: abc.come
+_GitHub Username Email_: email.com
