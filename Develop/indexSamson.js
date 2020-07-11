@@ -106,7 +106,9 @@ function gitProjectInfo(gitInfo) {
 **Questions**
 > ${gitInfo.question}
 
-->_GitHub Username Email_: ${gitInfo.email}<-`
+-> This test in middle ? <-
+
+_GitHub Username Email_: ${gitInfo.email}`
 }
 
 
