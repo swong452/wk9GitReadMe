@@ -94,8 +94,10 @@ function gitProjectInfo(gitInfo) {
 
 
 
-## Project Description:** ${gitInfo.projectDesc}
+## Project Description: ${gitInfo.projectDesc}
 _describe high level project description, may be with screen shot_
+
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With

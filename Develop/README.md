@@ -1,7 +1,7 @@
 
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: Buy Clothes
+# Title: Buying Best Jean in the World
 
 ## Table of Contents
 
@@ -22,8 +22,10 @@
 
 
 
-## Project Description:** Bying more clothes
+## Project Description: Searching for the best jean
 _describe high level project description, may be with screen shot_
+
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
@@ -49,11 +51,11 @@ List any prerequisite packages, and how to install these prequisite package
 node index.js
 '''
 
-**Installation:** NPM, Inquirer
+**Installation:** NPM, Inquirer, axios
 
-**Usage:** install npm first
+**Usage:** run this first
 
-[![License](http://img.shields.io/:license-Buy Clothes-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-Buying Best Jean in the World-blue.svg)](http://doge.mit-license.org)
 
 **Contributing**
 > samson wong
@@ -64,4 +66,4 @@ node index.js
 **Questions**
 > undefined
 
-_GitHub Username Email_: email.com
+_GitHub Username Email_: samson@gmail.com
