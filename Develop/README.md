@@ -1,6 +1,6 @@
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: adf
+# Title: ReadingBible
 
 ## Table of Contents
 - Project Description
@@ -12,16 +12,16 @@
 - Questions
 - User Profile
 
-**Project Description:** f
+**Project Description:** reding la
 
-**Installation:** fd
+**Installation:** fds
 
-**Usage:** dfs
+**Usage:** sfd
 
-[![License](http://img.shields.io/:license-Samson-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-ReadingBible-blue.svg)](http://doge.mit-license.org)
 
 **Contributing**
-> dsff
+> df
 
 **Tests**
 > undefined
@@ -29,6 +29,4 @@
 **Questions**
 > undefined
 
--> This test in middle ? <-
-
-_GitHub Username Email_: ssd
+_GitHub Username Email_: afd
