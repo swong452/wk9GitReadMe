@@ -1,9 +1,9 @@
 
-[![License](http://img.shields.io/:github--blue.svg)](http://doge.mit-license.org)
-[![License](http://img.shields.io/:github--blue.svg)](https://github.com//)
+[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: 
+# Title: abc
 
 ## Table of Contents
 
@@ -24,11 +24,11 @@
 
 
 
-## Project Description: 
+## Project Description: no no
 _describe high level project description, may be with screen shot_
 
 
-[![Product Name Screen Shot][product-screenshot]](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Farchitecture%2Fcloud-native%2Fmedia%2Feshoponcontainers-sample-app-screenshot.png&imgrefurl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Farchitecture%2Fcloud-native%2Fintroduce-eshoponcontainers-reference-app&tbnid=wOlhFw77jhwgGM&vet=12ahUKEwiyl87cp8TqAhVKAN8KHSGWCxwQMygregUIARCFAg..i&docid=gByF9PsMGuPlBM&w=1413&h=952&q=sample%20application%20screenshot&ved=2ahUKEwiyl87cp8TqAhVKAN8KHSGWCxwQMygregUIARCFAg)
+[![Product Name Screen Shot][product-screenshot]](https://www.google.com)
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -60,12 +60,12 @@ _Describe how to Install your package_
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Farchitecture%2Fcloud-native%2Fmedia%2Feshoponcontainers-sample-app-screenshot.png&imgrefurl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fdotnet%2Farchitecture%2Fcloud-native%2Fintroduce-eshoponcontainers-reference-app&tbnid=wOlhFw77jhwgGM&vet=12ahUKEwiyl87cp8TqAhVKAN8KHSGWCxwQMygregUIARCFAg..i&docid=gByF9PsMGuPlBM&w=1413&h=952&q=sample%20application%20screenshot&ved=2ahUKEwiyl87cp8TqAhVKAN8KHSGWCxwQMygregUIARCFAg)_
+For more examples, please refer to the [Documentation] [![Product Name Screen Shot][product-screenshot]](https://www.google.com)
 
 
 
 **Contributing**
-> 
+> df
 
 **Tests**
 > undefined
@@ -73,4 +73,4 @@ _For more examples, please refer to the [Documentation](https://www.google.com/i
 **Questions**
 > undefined
 
-_GitHub Username Email_: 
+_GitHub Username Email_: dfdf
