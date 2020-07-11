@@ -85,7 +85,7 @@ function gitProjectInfo(gitInfo) {
 _describe high level project description, may be with screen shot_
 
 
-[![Product Name Screen Shot][product-screenshot]](https://www.google.com)
+![Product Name Screen Shot](https://commonmark.org/help/images/favicon.png)
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
