@@ -106,7 +106,7 @@ function gitProjectInfo(gitInfo) {
 **Questions**
 > ${gitInfo.question}
 
-_GitHub Username Email_: ${gitInfo.email}`
+->_GitHub Username Email_: ${gitInfo.email}<-`
 }
 
 
