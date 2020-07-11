@@ -34,7 +34,7 @@ function askQuestions() {
             },
             {
                 type: "input",
-                message: "Installation ?",
+                message: "List Installation (All required Code for this program to execute)",
                 name: "install"
             }
         ])
@@ -55,7 +55,9 @@ function askQuestions() {
 
 function gitProjectInfo(gitInfo) {
 
-    return `#Project: ${gitInfo.project}
+    return `
+![] (https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)
+# Project: ${gitInfo.project}
 
 ## Table of Contents
 - Project Description
@@ -67,7 +69,9 @@ function gitProjectInfo(gitInfo) {
 - Questions
 - User Profile
 
-**Project Description: ${gitInfo.projectDesc}**
+**Project Description:** ${gitInfo.projectDesc}
+
+**Installation:** ${gitInfo.install}
 
 _GitHub username is_ ${gitInfo.install}
 

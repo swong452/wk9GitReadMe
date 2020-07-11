@@ -1,4 +1,6 @@
-#Project: Restructure Life
+
+![] (https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)
+# Project: Restructure Life
 
 ## Table of Contents
 - Project Description
@@ -10,10 +12,12 @@
 - Questions
 - User Profile
 
-**Project Description: Too messy, too many things going on**
+**Project Description:** TOo Mess tootoo too messsy
 
-_GitHub username is_ Install NPM , inquirer
+**Installation:** Inquirer, AVONET, abcDDD
 
-## GitHubEmail: swong452@github.email
+_GitHub username is_ Inquirer, AVONET, abcDDD
+
+## GitHubEmail: swong452@gmail.com
 
 > This is the END
