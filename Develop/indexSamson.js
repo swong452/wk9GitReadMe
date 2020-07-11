@@ -36,6 +36,26 @@ function askQuestions() {
                 type: "input",
                 message: "List Installation (All required Code for this program to execute)",
                 name: "install"
+            },
+            {
+                type: "input",
+                message: "Usage (How this code to be run)",
+                name: "usage"
+            },
+            {
+                type: "input",
+                message: "License",
+                name: "license"
+            },
+            {
+                type: "input",
+                message: "Contributing",
+                name: "contribute"
+            },
+            {
+                type: "input",
+                message: "Tests",
+                name: "Questions"
             }
         ])
         .then(function (response) {
@@ -73,11 +93,22 @@ function gitProjectInfo(gitInfo) {
 
 **Installation:** ${gitInfo.install}
 
+**Usage:** ${gitInfo.usage}
+
 _GitHub username is_ ${gitInfo.install}
 
-## GitHubEmail: ${gitInfo.email}
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
-> This is the END`
+**Contributing**
+> ${gitInfo.contribute}
+
+**Tests**
+> ${gitInfo.test}
+
+**Questions**
+> ${gitInfo.question}
+
+## GitHubEmail: ${gitInfo.email}`
 }
 
 
