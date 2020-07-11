@@ -1,9 +1,9 @@
 
-[![License](http://img.shields.io/:github--blue.svg)](https://github.com//)
+[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
 
 ![alt test](swongGitHubPicture.png "my Avatar")
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: 
+# Title: README Generator
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@
 
 
 ## Project Description: 
-
+Create a README Auto Generator
 
 
 ### Built With
@@ -92,6 +92,6 @@ NO roadmap for now
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-_GitHub Username Email_: 
+_GitHub Username Email_: swong452@hotmail.com
 
 ![Recordit GIF](MarkdownGuide.gif)
