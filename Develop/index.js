@@ -117,19 +117,40 @@ _Describe how to Install your package_
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-For more examples, please refer to the [Documentation] [![Product Name Screen Shot][product-screenshot]](https://www.google.com)
+For more examples, please refer to the [Documentation] 
 
 
+## Tests
 
-**Contributing**
-> ${gitInfo.contribute}
+Define a list of proposed unit tests/other test your program has gone thru
 
-**Tests**
-> ${gitInfo.test}
+## Questions
 
-**Questions**
-> ${gitInfo.question}
+List out any outstanding questions remaining. 
 
+
+## Contributing
+
+You can be part of contribution to open source community !
+Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (\`git checkout -b feature/AmazingFeature\`)
+3. Commit your Changes (\`git commit -m 'Add some AmazingFeature'\`)
+4. Push to the Branch (\`git push origin feature/AmazingFeature\`)
+5. Open a Pull Request
+
+
+## Roadmap
+
+Define a list of proposed features (and known issues).
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See \`LICENSE\` for more information.
+
+## Contact
 _GitHub Username Email_: ${gitInfo.email}`
 }
 

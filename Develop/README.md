@@ -1,9 +1,9 @@
 
-[![License](http://img.shields.io/:github--blue.svg)](http://doge.mit-license.org)
-[![License](http://img.shields.io/:github--blue.svg)](https://github.com//)
+[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: 
+# Title: wk9
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@
 
 
 
-## Project Description: 
+## Project Description: Create a Read Me
 _describe high level project description, may be with screen shot_
 
 
@@ -60,17 +60,38 @@ _Describe how to Install your package_
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-For more examples, please refer to the [Documentation] [![Product Name Screen Shot][product-screenshot]](https://www.google.com)
+For more examples, please refer to the [Documentation] 
 
 
+## Tests
 
-**Contributing**
-> 
+Define a list of proposed unit tests/other test your program has gone thru
 
-**Tests**
-> undefined
+## Questions
 
-**Questions**
-> undefined
+List out any outstanding questions remaining. 
 
-_GitHub Username Email_: 
+
+## Contributing
+
+You can be part of contribution to open source community !
+Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## Roadmap
+
+Define a list of proposed features (and known issues).
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+_GitHub Username Email_: swong452@hotmail.com
