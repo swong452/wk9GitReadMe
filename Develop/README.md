@@ -1,8 +1,8 @@
 
-[![License](http://img.shields.io/:license-ABC U AND MEAN-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:license-d-blue.svg)](http://doge.mit-license.org)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: ABC U AND MEAN
+# Title: d
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 
 
 
-## Project Description: take 1 day at a time
+## Project Description: d
 _describe high level project description, may be with screen shot_
 
 
@@ -64,7 +64,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 **Contributing**
-> d
+> 
 
 **Tests**
 > undefined
@@ -72,4 +72,4 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 **Questions**
 > undefined
 
-_GitHub Username Email_: swong.com
+_GitHub Username Email_: 
