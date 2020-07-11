@@ -30,18 +30,13 @@ function askQuestions() {
             },
             {
                 type: "input",
-                message: "License",
-                name: "license"
-            },
-            {
-                type: "input",
                 message: "Contributing",
                 name: "contribute"
             },
             {
                 type: "input",
-                message: "Tests",
-                name: "Questions"
+                message: "What is the Repo Name ?",
+                name: "repo"
             }
         ])
         .then(function (response) {
@@ -61,7 +56,8 @@ function askQuestions() {
 function gitProjectInfo(gitInfo) {
 
     return `
-[![License](http://img.shields.io/:license-${gitInfo.project}-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:github-${gitInfo.repo}-blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:github-${gitInfo.repo}-blue.svg)](https://github.com/${gitInfo.name}/${gitInfo.repo})
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 # Title: ${gitInfo.project}
