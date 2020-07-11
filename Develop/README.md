@@ -22,25 +22,27 @@
 
 
 ## Project Description: 
-_describe high level project description, may be with screen shot_
+
 
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Markdown](https://www.markdownguide.org/)
 * [nodeJS](https://nodejs.org/en/)
 
 
 
 ## Getting Started
 
-Give instructions on setting up this program in your environment, 
-what software dependencies, and how to get start to run the program
+_Summary: Give instructions on setting up this program in your environment,_
+_what software dependencies, and how to get start to run the program_
+
+In this ReadMe generator, just run node index will get you started.
+Follow the prompt to create a README.md
 
 ### Prerequisites Package 
 
-List any prerequisite packages, and how to install these prequisite package
+Need to have node package, and also Inquirer to run this ReadMe generator.
 
 * npm
 
@@ -51,21 +53,21 @@ node index.js
 ### Installation: 
 _Describe how to Install your package_
 
+In this project, no other installation needed. 
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this README Generator for any future projects. 
 
-For more examples, please refer to the [Documentation] 
-
+<iframe src="https://drive.google.com/file/d/1_wCPYN_2zJxHLeEuITmVqZBa6ZlVXZNB/preview" width="640" height="480"></iframe>
 
 ## Tests
 
-Define a list of proposed unit tests/other test your program has gone thru
+No test defined 
 
 ## Questions
 
-List out any outstanding questions remaining. 
+No outstanding questions remaining. 
 
 
 ## Contributing
@@ -82,7 +84,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## Roadmap
 
-Define a list of proposed features (and known issues).
+NO roadmap for now
 
 <!-- LICENSE -->
 ## License
@@ -91,3 +93,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 _GitHub Username Email_: 
+
+![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
