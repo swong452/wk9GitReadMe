@@ -119,8 +119,9 @@ In this project, no other installation needed.
 ## Usage
 
 Use this README Generator for any future projects. 
+Below display how it is being used. 
 
-<iframe src="https://drive.google.com/file/d/1_wCPYN_2zJxHLeEuITmVqZBa6ZlVXZNB/preview" width="640" height="480"></iframe>
+![Recordit GIF](READMEgeneratorVideo.gif)
 
 ## Tests
 
