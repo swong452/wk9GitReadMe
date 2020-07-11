@@ -1,9 +1,9 @@
 
-[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](http://doge.mit-license.org)
-[![License](http://img.shields.io/:github-wk9GitReadMe-blue.svg)](https://github.com/swong452/wk9GitReadMe)
+[![License](http://img.shields.io/:github--blue.svg)](http://doge.mit-license.org)
+[![License](http://img.shields.io/:github--blue.svg)](https://github.com//)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: abc
+# Title: 
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@
 
 
 
-## Project Description: no no
+## Project Description: 
 _describe high level project description, may be with screen shot_
 
 
@@ -65,7 +65,7 @@ For more examples, please refer to the [Documentation] [![Product Name Screen Sh
 
 
 **Contributing**
-> df
+> 
 
 **Tests**
 > undefined
@@ -73,4 +73,4 @@ For more examples, please refer to the [Documentation] [![Product Name Screen Sh
 **Questions**
 > undefined
 
-_GitHub Username Email_: dfdf
+_GitHub Username Email_: 
