@@ -1,7 +1,7 @@
 
-[![License](http://img.shields.io/:github--blue.svg)](https://github.com/swong452/)
+[![License](http://img.shields.io/:github--blue.svg)](https://github.com//)
 
-![alt test](samsonGitHubPicture.png "my Avatar")
+![alt test](swongGitHubPicture.png "my Avatar")
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 # Title: 
 
