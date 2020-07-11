@@ -1,7 +1,8 @@
 
+[![License](http://img.shields.io/:license-ABC U AND MEAN-blue.svg)](http://doge.mit-license.org)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-# Title: ABC
+# Title: ABC U AND MEAN
 
 ## Table of Contents
 
@@ -22,7 +23,7 @@
 
 
 
-## Project Description: abc
+## Project Description: take 1 day at a time
 _describe high level project description, may be with screen shot_
 
 
@@ -52,13 +53,18 @@ node index.js
 ```
 
 **Installation:** 
+_Describe how to Install your package_
 
-**Usage:** 
+## Usage
 
-[![License](http://img.shields.io/:license-ABC-blue.svg)](http://doge.mit-license.org)
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
 
 **Contributing**
-> 
+> d
 
 **Tests**
 > undefined
@@ -66,4 +72,4 @@ node index.js
 **Questions**
 > undefined
 
-_GitHub Username Email_: 
+_GitHub Username Email_: swong.com

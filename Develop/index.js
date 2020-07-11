@@ -30,16 +30,6 @@ function askQuestions() {
             },
             {
                 type: "input",
-                message: "List Installation (All required Code for this program to execute)",
-                name: "install"
-            },
-            {
-                type: "input",
-                message: "Usage (How this code to be run)",
-                name: "usage"
-            },
-            {
-                type: "input",
                 message: "License",
                 name: "license"
             },
@@ -71,6 +61,7 @@ function askQuestions() {
 function gitProjectInfo(gitInfo) {
 
     return `
+[![License](http://img.shields.io/:license-${gitInfo.project}-blue.svg)](http://doge.mit-license.org)
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 # Title: ${gitInfo.project}
@@ -123,11 +114,16 @@ List any prerequisite packages, and how to install these prequisite package
 node index.js
 \`\`\`
 
-**Installation:** ${gitInfo.install}
+**Installation:** 
+_Describe how to Install your package_
 
-**Usage:** ${gitInfo.usage}
+## Usage
 
-[![License](http://img.shields.io/:license-${gitInfo.project}-blue.svg)](http://doge.mit-license.org)
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
 
 **Contributing**
 > ${gitInfo.contribute}
