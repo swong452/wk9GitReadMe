@@ -1,6 +1,5 @@
 var fs = require("fs");
 var inquirer = require("inquirer");
-var dotenv = require("dotenv");
 
 // https://www.makeareadme.com/
 //https://github.com/othneildrew/Best-README-Template/blob/master/README.md
@@ -28,13 +27,8 @@ function askQuestions() {
             },
             {
                 type: "input",
-                message: "GitHubemail ?",
+                message: "Please enter your GitHubemail ?",
                 name: "email"
-            },
-            {
-                type: "input",
-                message: "Contributing",
-                name: "contribute"
             },
             {
                 type: "input",
@@ -104,7 +98,7 @@ Follow the prompt to create a README.md
 Below is a demo :
 
 
-![Recordit GIF](READMEgeneratorVideo.gif)
+![Recordit GIF](READMEgeneratorDemo.gif)
 
 
 ### Prerequisites Package 
