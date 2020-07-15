@@ -22,7 +22,7 @@
 
 
 ## Project Description: 
-Generate README file for each repo
+Generate a README file for the repo you specified
 
 
 ### Built With
